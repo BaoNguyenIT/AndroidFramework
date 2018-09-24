@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidFramework.iml" filepath="$PROJECT_DIR$/AndroidFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backgroundjob/backgroundjob.iml" filepath="$PROJECT_DIR$/backgroundjob/backgroundjob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backgroundjobstartcode/backgroundjobstartcode.iml" filepath="$PROJECT_DIR$/backgroundjobstartcode/backgroundjobstartcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrencypattern/concurrencypattern.iml" filepath="$PROJECT_DIR$/concurrencypattern/concurrencypattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databindingframework/databindingframework.iml" filepath="$PROJECT_DIR$/databindingframework/databindingframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpframework/mvpframework.iml" filepath="$PROJECT_DIR$/mvpframework/mvpframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvmpattern/mvvmpattern.iml" filepath="$PROJECT_DIR$/mvvmpattern/mvvmpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewclickpattern/recyclerviewclickpattern.iml" filepath="$PROJECT_DIR$/recyclerviewclickpattern/recyclerviewclickpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadsample/threadsample.iml" filepath="$PROJECT_DIR$/threadsample/threadsample.iml" />
+    </modules>
+  </component>
+</project>
