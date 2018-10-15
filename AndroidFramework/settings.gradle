@@ -1,3 +1,3 @@
-include ':app', ':databindingframework', ':mvpframework', ':concurrencypattern', ':recyclerviewclickpattern', ':backgroundjob', ':backgroundjobstartcode', ':mvvmpattern', ':customview'
+include ':app', ':databindingframework', ':mvpframework', ':concurrencypattern', ':recyclerviewclickpattern', ':backgroundjob', ':backgroundjobstartcode', ':mvvmpattern', ':customview', ':appcomponent'
 include ':threadsample'
 include ':threadsample'

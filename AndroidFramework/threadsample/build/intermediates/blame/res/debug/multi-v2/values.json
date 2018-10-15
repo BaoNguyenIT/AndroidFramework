@@ -1,33 +1,52 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\CODE\\AndroidStudioProjects\\AndroidFramework\\threadsample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\admin\\Documents\\LocalGit\\AndroidFramework\\AndroidFramework\\threadsample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\CODE\\AndroidStudioProjects\\AndroidFramework\\threadsample\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\admin\\Documents\\LocalGit\\AndroidFramework\\AndroidFramework\\threadsample\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "44",
-                        "endOffsets": "95"
+                        "startLines": "4,10,3,2,9,11,6,7,5,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "181,582,129,57,489,636,309,369,239,423",
+                        "endColumns": "56,52,50,70,91,79,58,52,68,64",
+                        "endOffsets": "233,630,175,123,576,711,363,417,303,483"
                     },
                     "to": {
-                        "startLines": "5",
-                        "startColumns": "4",
-                        "startOffsets": "260",
-                        "endColumns": "44",
-                        "endOffsets": "300"
+                        "startLines": "10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "444,501,554,605,676,768,848,907,960,1029",
+                        "endColumns": "56,52,50,70,91,79,58,52,68,64",
+                        "endOffsets": "496,549,600,671,763,843,902,955,1024,1089"
                     }
                 },
                 {
-                    "source": "D:\\CODE\\AndroidStudioProjects\\AndroidFramework\\threadsample\\src\\main\\res\\values\\bools.xml",
+                    "source": "C:\\Users\\admin\\Documents\\LocalGit\\AndroidFramework\\AndroidFramework\\threadsample\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "759",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "922"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1094",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "1255"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\admin\\Documents\\LocalGit\\AndroidFramework\\AndroidFramework\\threadsample\\src\\main\\res\\values\\bools.xml",
                     "from": {
                         "startLines": "7,6",
                         "startColumns": "4,4",
-                        "startOffsets": "303,262",
+                        "startOffsets": "310,268",
                         "endColumns": "43,40",
-                        "endOffsets": "342,298"
+                        "endOffsets": "349,304"
                     },
                     "to": {
                         "startLines": "2,3",
@@ -38,39 +57,39 @@
                     }
                 },
                 {
-                    "source": "D:\\CODE\\AndroidStudioProjects\\AndroidFramework\\threadsample\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\admin\\Documents\\LocalGit\\AndroidFramework\\AndroidFramework\\threadsample\\src\\main\\res\\values\\attrs.xml",
                     "from": {
-                        "startLines": "20",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "739",
-                        "endLines": "22",
-                        "endColumns": "12",
-                        "endOffsets": "900"
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "24",
+                        "endOffsets": "316"
                     },
                     "to": {
-                        "startLines": "16",
+                        "startLines": "4",
                         "startColumns": "4",
-                        "startOffsets": "955",
-                        "endLines": "18",
-                        "endColumns": "12",
-                        "endOffsets": "1116"
+                        "startOffsets": "140",
+                        "endLines": "8",
+                        "endColumns": "24",
+                        "endOffsets": "394"
                     }
                 },
                 {
-                    "source": "D:\\CODE\\AndroidStudioProjects\\AndroidFramework\\threadsample\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\admin\\Documents\\LocalGit\\AndroidFramework\\AndroidFramework\\threadsample\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "4,10,3,2,9,11,6,7,5,8",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "177,572,126,55,480,625,303,362,234,415",
-                        "endColumns": "56,52,50,70,91,79,58,52,68,64",
-                        "endOffsets": "229,620,172,121,567,700,357,410,298,475"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "44",
+                        "endOffsets": "97"
                     },
                     "to": {
-                        "startLines": "6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "305,362,415,466,537,629,709,768,821,890",
-                        "endColumns": "56,52,50,70,91,79,58,52,68,64",
-                        "endOffsets": "357,410,461,532,624,704,763,816,885,950"
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "399",
+                        "endColumns": "44",
+                        "endOffsets": "439"
                     }
                 }
             ]

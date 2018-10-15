@@ -1,33 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\CODE\\AndroidStudioProjects\\AndroidFramework\\threadsample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\admin\\Documents\\LocalGit\\AndroidFramework\\AndroidFramework\\threadsample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\CODE\\AndroidStudioProjects\\AndroidFramework\\threadsample\\src\\main\\res\\values-sw600dp\\dimens.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "44",
-                        "endOffsets": "95"
-                    },
-                    "to": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "140",
-                        "endColumns": "44",
-                        "endOffsets": "180"
-                    }
-                },
-                {
-                    "source": "D:\\CODE\\AndroidStudioProjects\\AndroidFramework\\threadsample\\src\\main\\res\\values-sw600dp\\bools.xml",
+                    "source": "C:\\Users\\admin\\Documents\\LocalGit\\AndroidFramework\\AndroidFramework\\threadsample\\src\\main\\res\\values-sw600dp\\bools.xml",
                     "from": {
                         "startLines": "5,4",
                         "startColumns": "4,4",
-                        "startOffsets": "298,258",
+                        "startOffsets": "303,262",
                         "endColumns": "44,39",
-                        "endOffsets": "338,293"
+                        "endOffsets": "343,297"
                     },
                     "to": {
                         "startLines": "2,3",
@@ -35,6 +18,23 @@
                         "startOffsets": "55,100",
                         "endColumns": "44,39",
                         "endOffsets": "95,135"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\admin\\Documents\\LocalGit\\AndroidFramework\\AndroidFramework\\threadsample\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "44",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "140",
+                        "endColumns": "44",
+                        "endOffsets": "180"
                     }
                 }
             ]
