@@ -28,7 +28,7 @@ public class WordRepository {
         mWordDao = db.wordDao();
         mAllWords = mWordDao.getAllWords();
     }
-    LiveData<List<Word>> getAllWords() {
+    public LiveData<List<Word>> getAllWords() {
         return mAllWords;
     }
     public void insert (Word word) {
